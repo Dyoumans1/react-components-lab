@@ -1,5 +1,6 @@
 import "./components/WeatherForecast.css"
 import ForecastsListItem from "./components/WeatherForecast";
+import "./App.css"
 
 const App = () => {
   const weatherForecasts = [
